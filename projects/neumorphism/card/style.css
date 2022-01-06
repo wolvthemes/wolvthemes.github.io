@@ -72,7 +72,7 @@ a{transition: var(--trans-2);color: var(--linkC)}
 .drK .neustcs{background: var(--darkBs);color: var(--darkT);box-shadow: 0.3rem 0.3rem 0.6rem #151518, -0.2rem -0.2rem 0.5rem #242529}
 
 /* Responsive */
-@media (min-width:481px){.neucard{margin-left:355px;margin-top: 300px;transform:scale(2)} .neucard:hover{margin-top: 300px;transform: scale(2)} .button{margin-left:450px}}
+@media (min-width:641px){.neucard{margin-left:355px;margin-top: 300px;transform:scale(2)} .neucard:hover{margin-top: 300px;transform: scale(2)} .button{margin-left:450px}}
 
 .button{margin-left: 150px;margin-right: -150px}
 .ntcntr{margin-left: 0px}
